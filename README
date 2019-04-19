@@ -1,4 +1,4 @@
-MinGW cross pkg is a simple package management tool to manage cross-compiled mingw packages from a unix system.
+MinGW cross pkg is a simple package management tool for cross-compiled mingw packages from a unix system.
 
 This packaging tool makes it easy to install and remove packages at will in an install tree,
 It handles the building and downloading of package sources, and also the dependencies between packages.
